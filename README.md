@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfiinyang
 - 👀 I’m interested in improving society through technology.
-- 🌱 I’m currently learning programming in C++.
-- 💞️ I’m looking to collaborate on increasing program efficiency through compact coding.
+- 🌱 I use Python for literally everything.
+- 💞️ I’m looking to collaborate on developing tools that facilitate personal and professional growth.
 - 📫 You can email me via alfiinyang@gmail.com.
 
 <!---
