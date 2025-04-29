@@ -132,7 +132,7 @@
         <mxCell id="-E05gIv4jN2PlpRda1Wg-6" value="LLM Call - Devil&#39;s Response" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
           <mxGeometry x="353.5" y="579" width="225" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="-E05gIv4jN2PlpRda1Wg-7" value="Referee Receives Both Responses" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="-E05gIv4jN2PlpRda1Wg-7" value="Referee Receives Both Responses&#xa;(Selection Prompt)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="179" y="728" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-E05gIv4jN2PlpRda1Wg-8" value="LLM Call - Referee Decision" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" parent="1" vertex="1">
@@ -147,9 +147,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cl74_eT5VSmjeDzBY-xy-14" value="Append response to history" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cl74_eT5VSmjeDzBY-xy-3">
+        <mxCell id="Cl74_eT5VSmjeDzBY-xy-14" value="Append referee response to history" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cl74_eT5VSmjeDzBY-xy-3">
           <mxGeometry x="-0.7705" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-E05gIv4jN2PlpRda1Wg-9" value="Referee Selects Response" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
@@ -159,7 +159,7 @@
           <mxGeometry x="206" y="1289" width="207" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-E05gIv4jN2PlpRda1Wg-11" value="End" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="283.5" y="1454" width="52" height="39" as="geometry" />
+          <mxGeometry x="283.5" y="1412" width="52" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-E05gIv4jN2PlpRda1Wg-13" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" target="-E05gIv4jN2PlpRda1Wg-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -242,7 +242,7 @@
             <mxPoint x="343" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cl74_eT5VSmjeDzBY-xy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-E05gIv4jN2PlpRda1Wg-32" target="-E05gIv4jN2PlpRda1Wg-25">
+        <mxCell id="Cl74_eT5VSmjeDzBY-xy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-E05gIv4jN2PlpRda1Wg-32" target="-E05gIv4jN2PlpRda1Wg-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-E05gIv4jN2PlpRda1Wg-32" value="System Prompt: About Person" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
