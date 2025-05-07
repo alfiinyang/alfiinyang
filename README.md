@@ -11,10 +11,11 @@
 - **AI Models**: LLaMA 3
 - **Tools**: Git, VS Code, Google Colab
 
-## Connection
-- 📫 You can email me via alfiinyang@gmail.com.
-- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ime-inyang-jr).
-- Read my articles on [**Medium**](https://medium.com/@alfiinyang)
+## 🔗 Let's Connect
+
+- 📫 Email: [alfiinyang@gmail.com](mailto:alfiinyang@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ime-inyang-jr)
+- ✍️ [Medium](https://medium.com/@alfiinyang)
 
 <!---
 alfiinyang/alfiinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
