@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @alfiinyang
-- 👀 I’m interested in improving society through technology.
-- 🌱 I use Python for literally everything.
-- 💞️ I’m looking to collaborate on developing tools that facilitate personal and professional growth.
+# Hi there, I'm Ime Inyang 👋 — but you can call me Alfi
+
+- 👀 Passionate about improving society through technology.
+- 🐍 I use Python for practically everything — from data tools to automation.
+- 💼 As an IT Specialist, I support geophysicists in seismic data processing, ensuring their systems run Omega optimally.
+- 📊 When I'm here, it's Data Science all the way!
+
+## 🚀 Skills & Tools
+- **Languages**: Python, C++
+- **Frameworks**: LangChain, ChromaDB
+- **AI Models**: LLaMA 3
+- **Tools**: Git, VS Code, Google Colab
+
 - 📫 You can email me via alfiinyang@gmail.com.
 
 <!---
